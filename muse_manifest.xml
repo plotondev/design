@@ -1,0 +1,306 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ploton.dev" resolutions="1x,2x" timestamp="1701509060025">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="215519814" ref="index"/>
+    <file name="ploton---op-2.css" crc="408559296" ref="ploton---op-2"/>
+    <file name="workflow.css" crc="3994907663" ref="workflow"/>
+    <file name="ploton---op-3.css" crc="4161495664" ref="ploton---op-3"/>
+    <file name="ploton---op-4.css" crc="450056359" ref="ploton---op-4"/>
+  </folder>
+  <folder name="fonts">
+    <file name="poppins-extralight.woff" crc="3941840945"/>
+    <file name="poppins-extralight.eot" crc="139019480"/>
+    <file name="poppins-semibold.woff" crc="3997486725"/>
+    <file name="poppins-semibold.eot" crc="4073654490"/>
+    <file name="poppins-bold.woff" crc="361607825"/>
+    <file name="poppins-bold.eot" crc="306275950"/>
+    <file name="poppins-regular.woff" crc="4276912673"/>
+    <file name="poppins-regular.eot" crc="3979297714"/>
+    <file name="poppins-medium.woff" crc="4085789961"/>
+    <file name="poppins-medium.eot" crc="3935762078"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ploton---op-2:workflow:ploton---op-3:ploton---op-4"/>
+    <file name="museutils.js" crc="3939489907" ref="index:ploton---op-2:workflow:ploton---op-3:ploton---op-4"/>
+    <file name="whatinput.js" crc="86476730" ref="index:ploton---op-2:workflow:ploton---op-3:ploton---op-4"/>
+    <file name="museconfig.js" crc="128606099" ref="index:ploton---op-2:workflow:ploton---op-3:ploton---op-4"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:ploton---op-2:ploton---op-3:ploton---op-4"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:ploton---op-2:workflow:ploton---op-3:ploton---op-4"/>
+    <file name="webpro.js" crc="3856315280" ref="index:ploton---op-2:ploton---op-3:ploton---op-4"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:ploton---op-2:ploton---op-3:ploton---op-4"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u5676.php" crc="17241900" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:ploton---op-2:workflow:ploton---op-3:ploton---op-4"/>
+    <file name="form-u2935.php" crc="3919732059" ref="ploton---op-2"/>
+    <file name="form-u4103.php" crc="3812384703" ref="ploton---op-3"/>
+    <file name="form-u5002.php" crc="240687476" ref="ploton---op-4"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="160826886" ref="index"/>
+    <file name="sdk-based_icon-01.svg" crc="3901264438" ref="index:ploton---op-2"/>
+    <file name="sdk-based_icon-01_poster_u3885.png" crc="408164416" ref="index:ploton---op-2"/>
+    <file name="low_code_icon-01.svg" crc="4084103661" ref="index:ploton---op-2"/>
+    <file name="low_code_icon-01_poster_u3893.png" crc="400568498" ref="index:ploton---op-2"/>
+    <file name="authentication_icon-01.svg" crc="4246794827" ref="index:ploton---op-2"/>
+    <file name="authentication_icon-01_poster_u3901.png" crc="317071427" ref="index:ploton---op-2"/>
+    <file name="multilingual_code_support_icom.svg" crc="3928828208" ref="index"/>
+    <file name="multilingual_code_support_icom_poster_u3994.png" crc="51350820" ref="index"/>
+    <file name="blue_light_gradient.svg" crc="3997560419" ref="index:ploton---op-2:ploton---op-3:ploton---op-4"/>
+    <file name="blue_light_gradient_poster_u2131.png" crc="3890130887" ref="index:ploton---op-2:ploton---op-3:ploton---op-4"/>
+    <file name="persona_avator.png" crc="58160323" seo="true" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+    </file>
+    <file name="persona_avator_2x.png" crc="152038184" seo="true" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+    </file>
+    <file name="the_problem_bg.svg" crc="397510445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the_problem_bg_poster_.png" crc="173415768" ref="index"/>
+    <file name="the_problem_illusata_2-01.svg" crc="280803418" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the_problem_illusata_2-01_poster_.png" crc="535534481" ref="index"/>
+    <file name="the_solution_bg.svg" crc="418161087" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the_solution_bg_poster_.png" crc="4196669420" ref="index"/>
+    <file name="how_it_works_1.svg" crc="139961967" seo="true" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+    </file>
+    <file name="how_it_works_1_poster_.png" crc="442494812" ref="index"/>
+    <file name="how_it_works_2.svg" crc="278398998" seo="true" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+    </file>
+    <file name="how_it_works_2_poster_.png" crc="3889302800" ref="index"/>
+    <file name="how_it_works_3.svg" crc="3859686310" seo="true" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+    </file>
+    <file name="how_it_works_3_poster_.png" crc="4134749223" ref="index"/>
+    <file name="business-process-workflow-automation-with-flowchart-hand-holding-wooden-cube-block-arranging-processing-management-yellow-background.jpg" crc="101099488" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="business-process-workflow-automation-with-flowchart-hand-holding-wooden-cube-block-arranging-processing-management-yellow-background_2x.jpg" crc="416411454" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="578z_bair_i_tech_10_tale_12.svg" crc="4138954930" ref="index"/>
+    <file name="578z_bair_i_tech_10_tale_12_poster_u6081.png" crc="290647507" ref="index"/>
+    <file name="mobile-phone-desktop-app-development_23-2148704867.jpg" crc="4049419453" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mobile-phone-desktop-app-development_23-2148704867_2x.jpg" crc="215067367" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cpu_icon.svg" crc="106602928" seo="true" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+    </file>
+    <file name="cpu_icon_poster_.png" crc="201198860" ref="index"/>
+    <file name="ram_icon.svg" crc="4234659044" seo="true" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+    </file>
+    <file name="ram_icon_poster_.png" crc="503528217" ref="index"/>
+    <file name="bill_icon.svg" crc="4246044141" seo="true" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+    </file>
+    <file name="bill_icon_poster_.png" crc="4274310669" ref="index"/>
+    <file name="cat_question.svg" crc="296748821" seo="true" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+    </file>
+    <file name="cat_question_poster_.png" crc="4172002194" ref="index"/>
+    <file name="blog_art.svg" crc="4195479892" seo="true" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+    </file>
+    <file name="blog_art_poster_.png" crc="338421026" ref="index"/>
+    <file name="screenshot 2023-11-20 at 17-14-07 premium photo ai cloud concept with brain.jpg" crc="3792307581" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2023-11-20 at 17-14-07 premium photo ai cloud concept with brain_2x.jpg" crc="173581101" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2023-11-20 at 17-36-18 free ai image 3d portrait of people.jpg" crc="3911770878" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2023-11-20 at 17-36-18 free ai image 3d portrait of people_2x.jpg" crc="4072210781" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2023-11-20 at 17-13-49 free photo ai cloud concept with robot arm.jpg" crc="152744624" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2023-11-20 at 17-13-49 free photo ai cloud concept with robot arm_2x.jpg" crc="4000986387" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2023-11-20 at 17-33-13 free ai image close up on superhero working on computer.jpg" crc="297623875" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2023-11-20 at 17-33-13 free ai image close up on superhero working on computer_2x.jpg" crc="293014753" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="oc-full-mailbox.svg" crc="482275094" seo="true" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+    </file>
+    <file name="oc-full-mailbox_poster_.png" crc="530420327" ref="index"/>
+    <file name="button_bg.svg" crc="4243632175" ref="index:ploton---op-2:ploton---op-3:ploton---op-4"/>
+    <file name="button_bg_poster_u1436.png" crc="517732237" ref="index:ploton---op-2:ploton---op-3:ploton---op-4"/>
+    <file name="ploton_logo_name_white.svg" crc="466860072" seo="true" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+    </file>
+    <file name="ploton_logo_name_white_poster_.png" crc="433034678" ref="index"/>
+    <file name="ploton_logo_name_long_black.svg" crc="4245930625" seo="true" ref="index:ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+    </file>
+    <file name="ploton_logo_name_long_black_poster_.png" crc="351041420" ref="index"/>
+    <file name="multilingual_code_support_icon-01.svg" crc="325911616" ref="ploton---op-2"/>
+    <file name="multilingual_code_support_icon-01_poster_u3909.png" crc="317316321" ref="ploton---op-2"/>
+    <file name="the_problem_art.svg" crc="112687109" seo="true" ref="ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+    </file>
+    <file name="the_problem_art_poster_.png" crc="3852990206" ref="ploton---op-2"/>
+    <file name="the_solution_art.svg" crc="163512297" seo="true" ref="ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+    </file>
+    <file name="the_solution_art_poster_.png" crc="54205390" ref="ploton---op-2"/>
+    <file name="the_problem_illusata4tr-4654645-01.svg" crc="456615635" seo="true" ref="ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+    </file>
+    <file name="the_problem_illusata4tr 4654645-01_poster_.png" crc="512939561" ref="ploton---op-2"/>
+    <file name="ec-improve-conversion-rate.svg" crc="3942477079" seo="true" ref="ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+    </file>
+    <file name="ec-improve-conversion-rate_poster_.png" crc="4125604239" ref="ploton---op-2"/>
+    <file name="ec-archive.svg" crc="3994804622" seo="true" ref="ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+    </file>
+    <file name="ec-archive_poster_.png" crc="476224573" ref="ploton---op-2"/>
+    <file name="ec-order-placed.svg" crc="3861192802" seo="true" ref="ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+    </file>
+    <file name="ec-order-placed_poster_.png" crc="3939191409" ref="ploton---op-2"/>
+    <file name="ec-badge-reward-1.svg" crc="3760365588" seo="true" ref="ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+    </file>
+    <file name="ec-badge-reward-1_poster_.png" crc="4189917885" ref="ploton---op-2"/>
+    <file name="ec-free-deposit.svg" crc="4071902801" seo="true" ref="ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+    </file>
+    <file name="ec-free-deposit_poster_.png" crc="68959038" ref="ploton---op-2"/>
+    <file name="ec-save-money.svg" crc="4180286597" seo="true" ref="ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+    </file>
+    <file name="ec-save-money_poster_.png" crc="392548278" ref="ploton---op-2"/>
+    <file name="untitled-134656-01.svg" crc="80776553" seo="true" ref="ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+    </file>
+    <file name="untitled-134656-01_poster_.png" crc="417361844" ref="ploton---op-2"/>
+    <file name="untitle456d-1-02.svg" crc="4273038665" seo="true" ref="ploton---op-2:ploton---op-3:ploton---op-4">
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-2" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+      <caption webpage="ploton---op-3" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+    </file>
+    <file name="untitle456d-1-02_poster_.png" crc="80955976" ref="ploton---op-2"/>
+    <file name="screenshot 2023-11-26 at 10-48-27 what is workflow integration ultimate guide - frevvo blog.jpg" crc="107596230" seo="true" ref="workflow">
+      <caption webpage="workflow" alt=""/>
+    </file>
+    <file name="02-frevvo-automate-invoice-approval-workflow-steps-1024x662.jpg" crc="435331009" seo="true" ref="workflow">
+      <caption webpage="workflow" alt=""/>
+    </file>
+    <file name="workflow-integrations-diagram.jpg" crc="121679921" seo="true" ref="workflow">
+      <caption webpage="workflow" alt=""/>
+    </file>
+    <file name="workflow-integrations-diagram_2x.jpg" crc="54465645" seo="true" ref="workflow">
+      <caption webpage="workflow" alt=""/>
+    </file>
+    <file name="sdk-based_icon_3-01.svg" crc="218123734" ref="ploton---op-3"/>
+    <file name="sdk-based_icon_3-01_poster_u6051.png" crc="74289044" ref="ploton---op-3"/>
+    <file name="low_code_icon_3-01.svg" crc="394144771" ref="ploton---op-3"/>
+    <file name="low_code_icon_3-01_poster_u6059.png" crc="366141276" ref="ploton---op-3"/>
+    <file name="authentication_icon_3-01.svg" crc="266473539" ref="ploton---op-3"/>
+    <file name="authentication_icon_3-01_poster_u6035.png" crc="349044187" ref="ploton---op-3"/>
+    <file name="multilingual_code_support_icom_3-01.svg" crc="4075607422" ref="ploton---op-3"/>
+    <file name="multilingual_code_support_icom_3-01_poster_u6043.png" crc="80334004" ref="ploton---op-3"/>
+    <file name="agile-method-amico.svg" crc="446001184" seo="true" ref="ploton---op-3:ploton---op-4">
+      <caption webpage="ploton---op-3" alt=""/>
+      <caption webpage="ploton---op-4" alt=""/>
+    </file>
+    <file name="agile method-amico_poster_.png" crc="4268545596" ref="ploton---op-3"/>
+    <file name="sdk-based_icon_2-01.svg" crc="4064297645" ref="ploton---op-4"/>
+    <file name="sdk-based_icon_2-01_poster_u5168.png" crc="3806799659" ref="ploton---op-4"/>
+    <file name="low_code_icon_2-01.svg" crc="39328722" ref="ploton---op-4"/>
+    <file name="low_code_icon_2-01_poster_u5176.png" crc="118633362" ref="ploton---op-4"/>
+    <file name="authentication_icon_2-01.svg" crc="3801371167" ref="ploton---op-4"/>
+    <file name="authentication_icon_2-01_poster_u5184.png" crc="4219918274" ref="ploton---op-4"/>
+    <file name="multilingual_code_support_icom_2-01.svg" crc="3906624339" ref="ploton---op-4"/>
+    <file name="multilingual_code_support_icom_2-01_poster_u5192.png" crc="326315175" ref="ploton---op-4"/>
+  </folder>
+  <file name="index.html" crc="3936087860" seo="true" mt="1701484140421" redirect="true"/>
+  <file name="ploton---op-2.html" crc="4031970874" seo="true" mt="1701456500159" redirect="true"/>
+  <file name="workflow.html" crc="232102915" seo="true" mt="1701094614951" redirect="true"/>
+  <file name="ploton---op-3.html" crc="84010043" seo="true" mt="1701485160909" redirect="true"/>
+  <file name="ploton---op-4.html" crc="428563545" seo="true" mt="1701456500010" redirect="true"/>
+</manifest>
